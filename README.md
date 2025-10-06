@@ -2,7 +2,7 @@
 
 # ศุภณัฐ มังโส | Network Engineer
 
-นักศึกษาสาขาวิชาเทคโนโลยีสารสนเทศ ที่สนใจด้าน **Network Engineering, System Administration, และ Cybersecurity**  
+นักศึกษาสาขาวิชาเทคโนโลยีสารสนเทศ ที่สนใจด้าน **Network Engineering**  
 กำลังมองหาโอกาสฝึกงานเพื่อพัฒนาทักษะในโลกของระบบเครือข่ายจริง
 
 ---
