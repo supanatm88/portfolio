@@ -62,8 +62,8 @@
 ---
 
 ## 🔗 ติดต่อ (Contact)
-📧 Email: supanat.mso@gmail.com 
-📞 Phone: 092-496-0113
-💼 GitHub: [https://github.com/username](https://github.com/supanatm88)  
+📧 Email: [supanat.mso@gmail.com]
+📞 Phone: [092-496-0113]
+💼 GitHub: [(https://github.com/supanatm88)] 
 
 ---
