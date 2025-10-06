@@ -11,12 +11,11 @@
 
 | หมวดหมู่ | ทักษะ |
 |-----------|--------|
-| **Networking Concepts** | OSI Model, TCP/IP Suite, Subnetting (IPv4/IPv6), DNS, DHCP, NAT |
-| **Routing & Switching** | VLANs, Trunking (802.1Q), STP, Inter-VLAN Routing, OSPF, EIGRP, Static Routing |
-| **Network Security** | Access Control Lists (ACLs), Basic Firewall Concepts, Port Security, VPN |
-| **Scripting / Tools** | Python (พื้นฐานสำหรับ Network Automation), Bash Scripting, Wireshark |
-| **Languages** | ภาษาไทย (Native), ภาษาอังกฤษ (Communicative) |
-
+| **Networking Concepts** | OSI Model, TCP/IP, Subnetting (IPv4), DNS, DHCP |
+| **Routing & Switching** | VLANs, Static Routing |
+| **Network Security** | Basic Firewall Concepts, Port Security |
+| **Tools** | Cisco Packet Tracer, Wireshark |
+| **Languages** | ภาษาไทย (Native), ภาษาอังกฤษ (สามารถอ่านเอกสารเทคนิคได้) |
 ---
 
 ## 💻 โปรเจกต์ (Projects)
