@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 # [ศุภณัฐ มังโส] | Aspiring Network Engineer
 
