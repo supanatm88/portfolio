@@ -16,6 +16,7 @@
 | **Network Security** | Basic Firewall Concepts, Port Security |
 | **Tools** | Cisco Packet Tracer, Wireshark |
 | **Languages** | ภาษาไทย (Native), ภาษาอังกฤษ (สามารถอ่านเอกสารเทคนิคได้) |
+
 ---
 
 ## 💻 โปรเจกต์ (Projects)
