@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio | Supanat M.</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #0366d6;
+      color: white;
+      text-align: center;
+      padding: 40px 0;
+    }
+    section {
+      padding: 20px 80px;
+    }
+    h1 { margin-bottom: 0; }
+    h2 { color: #0366d6; margin-top: 40px; }
+    .project {
+      background: white;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #eee;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Supanat M.</h1>
+    <p>Network Engineer Intern | Portfolio</p>
+  </header>
+
+  <section>
+    <h2>เกี่ยวกับฉัน</h2>
+    <p>นักศึกษาวิศวกรรมคอมพิวเตอร์ สนใจด้านระบบเครือข่ายและความปลอดภัยข้อมูล 
+    มีความตั้งใจเรียนรู้และพัฒนาทักษะในโลกของ IT Infrastructure</p>
+
+    <h2>โครงงาน (Projects)</h2>
+    <div class="project">
+      <h3>Network Design for Small Office</h3>
+      <p>ออกแบบและจำลองระบบเครือข่ายด้วย Cisco Packet Tracer พร้อมกำหนด VLAN และ Static Routing</p>
+    </div>
+
+    <div class="project">
+      <h3>Home Lab Setup</h3>
+      <p>สร้างห้องแลปจำลองด้วย GNS3 เพื่อฝึกตั้งค่า DHCP, NAT, Firewall และ Network Monitoring</p>
+    </div>
+
+    <h2>ติดต่อฉัน (Contact)</h2>
+    <p>📧 supanat@example.com<br>
+       💼 <a href="https://github.com/supanatm88" target="_blank">GitHub Profile</a></p>
+  </section>
+
+  <footer>
+    © 2025 Supanat M. | Created with ❤️ on GitHub Pages
+  </footer>
+</body>
+</html>
