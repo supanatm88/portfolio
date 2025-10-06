@@ -62,9 +62,8 @@
 ---
 
 ## 🔗 ติดต่อ (Contact)
-📧 Email: [your.email@example.com]  
-📞 Phone: [เบอร์โทรของคุณ]  
-💼 GitHub: [https://github.com/username](https://github.com/username)  
-💻 LinkedIn: [ใส่ลิงก์ถ้ามี]
+📧 Email: [supanat.mso@gmail.com]  
+📞 Phone: [092-496-0113]  
+💼 GitHub: [https://github.com/username](https://github.com/supanatm88)  
 
 ---
