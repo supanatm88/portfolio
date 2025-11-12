@@ -55,7 +55,7 @@
 ---
 
 ## 🔗 Portfolio Links
-- [📄 Resume (PDF)](./resume/Supanat_Mangso_NetworkEngineer_Intern.pdf)  
+- [📄 Resume (PDF)](./Supanat_Mangso_NetworkEngineer_Intern.pdf)  
 - [💻 GitHub Portfolio (supanatm88)](https://github.com/supanatm88/portfolio)
 ---
 
