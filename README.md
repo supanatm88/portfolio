@@ -53,10 +53,9 @@
 - ไทย (ดีเยี่ยม)  
 - อังกฤษ (พื้นฐาน – ยังไม่สามารถสื่อสารได้ แต่กำลังฝึกเพิ่มเติม)
 ---
-
-## 🔗 Portfolio Links
-- [📄 Resume (PDF)](./Supanat_Mangso_NetworkEngineer_Intern.pdf)  
-- [💻 Project – Network Lab (GitHub)](https://github.com/supanatm88/network-lab-project)
+## 💻 Network Projects
+ดูผลงานการจำลองระบบเครือข่ายทั้งหมดได้ที่  
+👉 [Network Lab Project Repository](https://github.com/supanatm88/network-lab-project)
 ---
 
 ## 🔗 ติดต่อ (Contact)
