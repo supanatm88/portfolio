@@ -57,10 +57,13 @@
 ดูผลงานการจำลองระบบเครือข่ายทั้งหมดได้ที่  
 👉 [Network Lab Project Repository](https://github.com/supanatm88/network-lab-project)
 ---
+## 🔗 Portfolio Links
+- 🧠 [Resume (PDF)](https://github.com/supanatm88/portfolio/blob/main/Supanat_Mangso_NetworkEngineer_Intern.pdf)
+---
 
 ## 🔗 ติดต่อ (Contact)
 📧 Email: [supanat.mso@gmail.com]
 📞 Phone: [092-496-0113]
 💼 GitHub: [(https://github.com/supanatm88)] 
 
----
+
