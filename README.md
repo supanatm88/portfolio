@@ -16,7 +16,7 @@
 | **Routing & Switching** | VLANs, Static Routing |
 | **Network Security** | Basic Firewall Concepts, Port Security |
 | **Tools** | Cisco Packet Tracer, Wireshark |
-| **Languages** | ไทย (Native), อังกฤษ (พื้นฐาน – ยังไม่สามารถสื่อสารได้ แต่กำลังพัฒนาเพิ่มเติม) |
+| **Languages** | ไทย (ดีเยี่ยม), อังกฤษ (พื้นฐาน – ยังไม่สามารถสื่อสารได้ แต่กำลังพัฒนาเพิ่มเติม) |
 
 ---
 
